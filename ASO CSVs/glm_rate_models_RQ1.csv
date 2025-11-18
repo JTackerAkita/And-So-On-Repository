@@ -1,0 +1,5 @@
+term,estimate,std.error,statistic,p.value,conf.low,conf.high,model,note
+(Intercept),2.7955016260363395e-4,0.1666773759658512,-49.09081848340415,0,2.0129607160539222e-4,3.879757787503433e-4,Negative Binomial,Exponentiated coefficients are rate ratios (per tokens via offset)
+cultureENS,0.09115978065794288,0.49419500999473887,-4.846551325467206,1.2562609862644766e-6,0.030548742698284174,0.21940751535926584,Negative Binomial,Exponentiated coefficients are rate ratios (per tokens via offset)
+cultureJPN,3.0730745837424993,0.21188220900887858,5.298597549868765,1.1669552647600569e-7,2.0310995279496495,4.6642913283898055,Negative Binomial,Exponentiated coefficients are rate ratios (per tokens via offset)
+cultureKOR,0.7468311229856321,0.25733834334407424,-1.1343672663058655,0.2566405238271573,0.4466453532548077,1.2334389650921083,Negative Binomial,Exponentiated coefficients are rate ratios (per tokens via offset)

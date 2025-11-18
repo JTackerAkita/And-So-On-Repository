@@ -1,0 +1,5 @@
+effect,component,term,estimate,std.error,statistic,p.value,conf.low,conf.high,note
+fixed,cond,(Intercept),6.575029965470989,NA,NA,NA,NA,NA,logit scale; exponentiate for ORs
+fixed,cond,cultureENS,0.5414353904456717,NA,NA,NA,NA,NA,logit scale; exponentiate for ORs
+fixed,cond,cultureJPN,-3.198228366247443,NA,NA,NA,NA,NA,logit scale; exponentiate for ORs
+fixed,cond,cultureKOR,2.3561397048722528,NA,NA,NA,NA,NA,logit scale; exponentiate for ORs

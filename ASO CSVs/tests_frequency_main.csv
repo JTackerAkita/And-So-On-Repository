@@ -1,0 +1,2 @@
+test,method,statistic,df,p_value,cramer_v
+Frequency across groups,Chi-square (asymptotic),242.8050689869612,3,2.354484580119872e-52,0.0166162087674593

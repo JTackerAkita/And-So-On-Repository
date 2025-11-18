@@ -1,0 +1,2 @@
+test,method,statistic,df,p_value,cramer_v
+Final share across groups,"Chi-square (Monte Carlo, B=50000)",3.040670177098106,NA,0.3642127157456851,0.09747868640596047
