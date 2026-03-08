@@ -1,0 +1,580 @@
+TABLE 12.2 2026 SE Questionnaire (embedded fixed ZOU687WS.TXT  Mar 02 2026 13:09
+INPUT: 49 PERSON  18 ITEM  REPORTED: 49 PERSON  18 ITEM  5 CATS WINSTEPS 5.10.0.0
+---------------------------------------------------------------------------------
+ 
+MEASURE PERSON - MAP - ITEM
+         <more>|<rare>
+    4          +
+               |
+            X  |
+               |
+               |
+               |
+    3          +
+               |
+               |
+              T|
+               |
+               |
+    2      XX  +T
+            X  |
+         XXXX  |
+           XX S|  SEQ1   SEQ6
+          XXX  |
+           XX  |
+    1     XXX  +S SEQ17  SEQ4
+        XXXXX  |
+            X  |
+          XXX M|
+        XXXXX  |  SEQ10  SEQ9
+            X  |  SEQ2   SEQ7   SEQ8
+    0      XX  +M SEQ11  SEQ18  SEQ5
+         XXXX  |
+           XX  |  SEQ13  SEQ3
+          XXX S|  SEQ12
+               |
+          XXX  |  SEQ14
+   -1          +S
+               |
+               |
+            X T|
+               |
+               |  SEQ16
+   -2          +T
+            X  |
+               |
+               |  SEQ15
+               |
+               |
+   -3          +
+         <less>|<freq>
+ 
+TABLE 12.5 2026 SE Questionnaire (embedded fixed ZOU687WS.TXT  Mar 02 2026 13:09
+INPUT: 49 PERSON  18 ITEM  REPORTED: 49 PERSON  18 ITEM  5 CATS WINSTEPS 5.10.0.0
+---------------------------------------------------------------------------------
+ 
+MEASURE  PERSON - MAP - ITEM - Expected score zones (Rasch-half-point thresholds)
+         <more>|  Disagre   Neutral     Agree   Strongl
+               |                                 SEQ1.45
+                                                 SEQ6.45
+               |
+               |
+               |                                SEQ17.45
+               |                                 SEQ4.45
+    4          +
+               |
+            X  |                                 SEQ9.45
+                                                SEQ10.45
+               |                                 SEQ8.45
+               |                                 SEQ2.45
+                                                 SEQ7.45
+                                                 SEQ5.45
+                                                SEQ18.45
+               |                                SEQ11.45
+    3          +                                 SEQ3.45
+                                                SEQ13.45
+               |                                SEQ12.45
+               |
+              T|
+               |                                SEQ14.45
+               |
+    2      XX  +T                      SEQ1.35
+                                       SEQ6.35
+            X  |
+         XXXX  |
+           XX S|                      SEQ17.35
+                                       SEQ4.35
+          XXX  |                                SEQ16.45
+           XX  |
+    1     XXX  +S                      SEQ9.35
+        XXXXX  |                      SEQ10.35
+                                       SEQ8.35
+            X  |                       SEQ2.35  SEQ15.45
+                                       SEQ7.35
+          XXX M|             SEQ1.25   SEQ5.35
+                             SEQ6.25  SEQ18.35
+                                      SEQ11.35
+        XXXXX  |                       SEQ3.35
+            X  |                      SEQ13.35
+                                      SEQ12.35
+    0      XX  +M           SEQ17.25
+                             SEQ4.25
+         XXXX  |
+           XX  |                      SEQ14.35
+          XXX S|
+               |             SEQ9.25
+                            SEQ10.25
+          XXX  |             SEQ8.25
+                             SEQ2.25
+                             SEQ7.25
+   -1          +S            SEQ5.25
+                            SEQ18.25
+                            SEQ11.25
+               |   SEQ1.15
+                   SEQ6.15
+               |             SEQ3.25  SEQ16.35
+                            SEQ13.25
+            X T|            SEQ12.25
+               |
+               |  SEQ17.15  SEQ14.25
+                   SEQ4.15
+   -2          +T                     SEQ15.35
+            X  |
+               |   SEQ9.15
+               |  SEQ10.15
+                   SEQ8.15
+               |   SEQ2.15
+                   SEQ7.15
+                   SEQ5.15
+               |  SEQ18.15  SEQ16.25
+                  SEQ11.15
+   -3          +   SEQ3.15
+               |  SEQ13.15
+                  SEQ12.15
+               |
+               |            SEQ15.25
+               |  SEQ14.15
+               |
+   -4          +
+               |
+               |
+               |
+               |  SEQ16.15
+               |
+   -5          +
+               |
+               |  SEQ15.15
+               |
+               |
+               |
+   -6          +
+         <less>|  Strongl   Disagre   Neutral     Agree
+ 
+TABLE 12.6 2026 SE Questionnaire (embedded fixed ZOU687WS.TXT  Mar 02 2026 13:09
+INPUT: 49 PERSON  18 ITEM  REPORTED: 49 PERSON  18 ITEM  5 CATS WINSTEPS 5.10.0.0
+---------------------------------------------------------------------------------
+ 
+MEASURE  PERSON - MAP - ITEM - 50% Cumulative probabilities (Rasch-Thurstonian thresholds)
+         <more>|  Disagr   Neutra    Agree   Strong
+               |                              SEQ1.5
+                                              SEQ6.5
+               |
+               |
+               |                             SEQ17.5
+                                              SEQ4.5
+    4          +
+               |
+            X  |
+               |                              SEQ9.5
+                                             SEQ10.5
+               |                              SEQ8.5
+                                              SEQ2.5
+                                              SEQ7.5
+               |                              SEQ5.5
+                                             SEQ18.5
+                                             SEQ11.5
+    3          +
+               |                              SEQ3.5
+                                             SEQ13.5
+               |                             SEQ12.5
+              T|
+               |                             SEQ14.5
+               |
+    2      XX  +T
+            X  |                     SEQ1.4
+                                     SEQ6.4
+         XXXX  |
+           XX S|
+          XXX  |                    SEQ17.4  SEQ16.5
+                                     SEQ4.4
+           XX  |
+    1     XXX  +S
+        XXXXX  |
+            X  |            SEQ1.3   SEQ9.4  SEQ15.5
+                            SEQ6.3  SEQ10.4
+                                     SEQ8.4
+          XXX M|                     SEQ2.4
+                                     SEQ7.4
+        XXXXX  |                     SEQ5.4
+                                    SEQ18.4
+                                    SEQ11.4
+            X  |                     SEQ3.4
+    0      XX  +M          SEQ17.3  SEQ13.4
+                            SEQ4.3  SEQ12.4
+         XXXX  |
+           XX  |
+          XXX S|            SEQ9.3  SEQ14.4
+               |           SEQ10.3
+                            SEQ8.3
+          XXX  |            SEQ2.3
+                            SEQ7.3
+   -1          +S  SEQ1.2   SEQ5.3
+                   SEQ6.2  SEQ18.3
+                           SEQ11.3
+               |            SEQ3.3
+               |           SEQ13.3
+                           SEQ12.3
+            X T|  SEQ17.2           SEQ16.4
+               |   SEQ4.2
+               |           SEQ14.3
+   -2          +T
+            X  |   SEQ9.2           SEQ15.4
+                  SEQ10.2
+               |   SEQ8.2
+               |   SEQ2.2
+                   SEQ7.2
+                   SEQ5.2
+                  SEQ18.2
+               |  SEQ11.2
+               |   SEQ3.2  SEQ16.3
+                  SEQ13.2
+   -3          +  SEQ12.2
+               |
+               |
+               |  SEQ14.2  SEQ15.3
+               |
+               |
+   -4          +
+               |
+               |  SEQ16.2
+               |
+               |
+               |
+   -5          +
+               |  SEQ15.2
+               |
+               |
+               |
+               |
+   -6          +
+         <less>|  Strong   Disagr   Neutra    Agree
+ 
+TABLE 12.7 2026 SE Questionnaire (embedded fixed ZOU687WS.TXT  Mar 02 2026 13:09
+INPUT: 49 PERSON  18 ITEM  REPORTED: 49 PERSON  18 ITEM  5 CATS WINSTEPS 5.10.0.0
+---------------------------------------------------------------------------------
+ 
+MEASURE  PERSON - MAP - ITEM - Andrich thresholds (modal categories if ordered)
+         <more>|  Disagr   Neutra    Agree   Strong
+               |                              SEQ1.5
+                                              SEQ6.5
+               |
+               |
+               |                             SEQ17.5
+    4          +                              SEQ4.5
+               |
+            X  |
+               |                              SEQ9.5
+                                             SEQ10.5
+               |                              SEQ8.5
+               |                              SEQ2.5
+                                              SEQ7.5
+                                              SEQ5.5
+                                             SEQ18.5
+    3          +                             SEQ11.5
+               |                              SEQ3.5
+                                             SEQ13.5
+               |                             SEQ12.5
+              T|
+               |                             SEQ14.5
+               |
+    2      XX  +T
+            X  |
+         XXXX  |                     SEQ1.4
+                                     SEQ6.4
+           XX S|
+          XXX  |                             SEQ16.5
+           XX  |                    SEQ17.4
+                                     SEQ4.4
+    1     XXX  +S
+        XXXXX  |
+            X  |            SEQ1.3
+                            SEQ6.3
+          XXX M|                     SEQ9.4  SEQ15.5
+                                    SEQ10.4
+        XXXXX  |                     SEQ8.4
+                                     SEQ2.4
+                                     SEQ7.4
+            X  |           SEQ17.3   SEQ5.4
+                                    SEQ18.4
+                                    SEQ11.4
+    0      XX  +M           SEQ4.3
+         XXXX  |                     SEQ3.4
+                                    SEQ13.4
+           XX  |                    SEQ12.4
+          XXX S|            SEQ9.3
+                           SEQ10.3
+               |            SEQ8.3  SEQ14.4
+          XXX  |   SEQ1.2   SEQ2.3
+                   SEQ6.2   SEQ7.3
+                            SEQ5.3
+                           SEQ18.3
+   -1          +S          SEQ11.3
+               |            SEQ3.3
+                           SEQ13.3
+               |  SEQ17.2  SEQ12.3
+            X T|   SEQ4.2
+               |           SEQ14.3  SEQ16.4
+               |
+   -2          +T  SEQ9.2
+                  SEQ10.2
+            X  |   SEQ8.2
+                   SEQ2.2
+               |   SEQ7.2           SEQ15.4
+                   SEQ5.2
+                  SEQ18.2
+               |  SEQ11.2
+               |   SEQ3.2  SEQ16.3
+                  SEQ13.2
+               |  SEQ12.2
+   -3          +
+               |  SEQ14.2
+               |
+               |           SEQ15.3
+               |
+               |
+   -4          +
+               |  SEQ16.2
+               |
+               |
+               |
+               |
+   -5          +  SEQ15.2
+         <less>|  Strong   Disagr   Neutra    Agree
+ 
+TABLE 12.8 2026 SE Questionnaire (embedded fixed ZOU687WS.TXT  Mar 02 2026 13:09
+INPUT: 49 PERSON  18 ITEM  REPORTED: 49 PERSON  18 ITEM  5 CATS WINSTEPS 5.10.0.0
+---------------------------------------------------------------------------------
+ 
+MEASURE  PERSON - MAP - ITEM - Measures for category scores (maximum probability of observing a category)
+         <more>|   Strong   Disagr   Neutra    Agree   Strong
+               |                                       SEQ1.5
+                                                       SEQ6.5
+               |
+               |
+               |                                      SEQ17.5
+                                                       SEQ4.5
+    5          +
+               |
+               |                                       SEQ9.5
+                                                      SEQ10.5
+               |                                       SEQ8.5
+                                                       SEQ2.5
+                                                       SEQ7.5
+               |                                       SEQ5.5
+                                                      SEQ18.5
+                                                      SEQ11.5
+    4          +                                       SEQ3.5
+                                                      SEQ13.5
+               |                                      SEQ12.5
+            X  |
+               |                                      SEQ14.5
+               |                              SEQ1.4
+                                              SEQ6.4
+    3          +
+               |                             SEQ17.4
+              T|                              SEQ4.4
+               |                                      SEQ16.5
+               |
+    2      XX  +T                             SEQ9.4
+                                             SEQ10.4
+                                              SEQ8.4
+            X  |                              SEQ2.4
+                                              SEQ7.4
+                                              SEQ5.4
+                                             SEQ18.4
+       XXXXXX S|                             SEQ11.4  SEQ15.5
+               |                              SEQ3.4
+                                             SEQ13.4
+        XXXXX  |                     SEQ1.3  SEQ12.4
+                                     SEQ6.3
+    1     XXX  +S
+        XXXXX  |                    SEQ17.3  SEQ14.4
+           XX M|                     SEQ4.3
+        XXXXX  |
+          XXX  |
+    0      XX  +M                    SEQ9.3
+                                    SEQ10.3
+                                     SEQ8.3
+        XXXXX  |            SEQ1.2   SEQ2.3  SEQ16.4
+                            SEQ6.2   SEQ7.3
+                                     SEQ5.3
+                                    SEQ18.3
+         XXXX S|                    SEQ11.3
+               |                     SEQ3.3
+                                    SEQ13.3
+           XX  |           SEQ17.2  SEQ12.3  SEQ15.4
+                            SEQ4.2
+   -1       X  +S
+               |                    SEQ14.3
+            X T|            SEQ9.2
+                           SEQ10.2
+               |            SEQ8.2
+                            SEQ2.2
+                            SEQ7.2
+               |            SEQ5.2
+                           SEQ18.2
+                           SEQ11.2
+   -2       X  +T  SEQ1.1   SEQ3.2
+                   SEQ6.1  SEQ13.2
+               |           SEQ12.2  SEQ16.3
+               |
+               |  SEQ17.1  SEQ14.2
+                   SEQ4.1
+               |                    SEQ15.3
+   -3          +
+               |   SEQ9.1
+                  SEQ10.1
+               |   SEQ8.1
+                   SEQ2.1
+               |   SEQ7.1  SEQ16.2
+                   SEQ5.1
+                  SEQ18.1
+                  SEQ11.1
+               |   SEQ3.1
+   -4          +  SEQ13.1
+                  SEQ12.1
+               |
+               |  SEQ14.1  SEQ15.2
+               |
+               |
+   -5          +
+               |
+               |  SEQ16.1
+               |
+               |
+   -6          +
+               |  SEQ15.1
+               |
+               |
+               |
+   -7          +
+         <less>|   Strong   Disagr   Neutra    Agree   Strong
+ 
+TABLE 12.9 2026 SE Questionnaire (embedded fixed ZOU687WS.TXT  Mar 02 2026 13:09
+INPUT: 49 PERSON  18 ITEM  REPORTED: 49 PERSON  18 ITEM  5 CATS WINSTEPS 5.10.0.0
+---------------------------------------------------------------------------------
+ 
+MEASURE  PERSON - MAP - PERSON - Average Measures for category scores
+         <more>|   Strong   Disagr   Neutra    Agree   Strong
+            X  |
+               |
+               |
+    3          +
+               |                                       SEQ7.5
+                                                       SEQ8.5
+                                                       SEQ9.5
+              T|
+               |                                       SEQ5.5
+                                                      SEQ13.5
+               |                                      SEQ10.5
+    2      XX  +T                             SEQ6.4  SEQ18.5
+                                                      SEQ12.5
+                                                       SEQ2.5
+                                                       SEQ3.5
+            X  |                                       SEQ1.5
+                                                       SEQ4.5
+                                                       SEQ6.5
+       XXXXXX S|                              SEQ4.4  SEQ17.5
+                                             SEQ17.4  SEQ14.5
+               |                              SEQ1.4
+        XXXXX  |           SEQ12.2                    SEQ11.5
+                                                      SEQ16.5
+    1     XXX  +S                             SEQ8.4  SEQ15.5
+                                              SEQ9.4
+                                              SEQ2.4
+                                             SEQ10.4
+        XXXXX  |                     SEQ6.3   SEQ7.4
+                                     SEQ1.3   SEQ5.4
+           XX M|           SEQ13.2   SEQ5.3   SEQ3.4
+                                    SEQ11.3  SEQ11.4
+                                             SEQ18.4
+                                             SEQ13.4
+                                             SEQ12.4
+        XXXXX  |            SEQ6.2  SEQ17.3  SEQ14.4
+                            SEQ1.2   SEQ4.3  SEQ16.4
+                                    SEQ10.3
+                                    SEQ18.3
+                                     SEQ3.3
+                                     SEQ9.3
+          XXX  |                     SEQ8.3  SEQ15.4
+                                     SEQ7.3
+                                    SEQ14.3
+                                     SEQ2.3
+    0      XX  +M SEQ11.1   SEQ4.2  SEQ12.3
+                           SEQ17.2  SEQ13.3
+        XXXXX  |           SEQ18.2  SEQ16.3
+                           SEQ10.2
+                           SEQ11.2
+                            SEQ3.2
+                            SEQ5.2
+                            SEQ9.2
+                           SEQ14.2
+         XXXX S|            SEQ2.2
+                            SEQ7.2
+               |   SEQ7.1   SEQ8.2
+           XX  |  SEQ17.1           SEQ15.3
+                   SEQ1.1
+                   SEQ6.1
+   -1       X  +S  SEQ4.1
+               |   SEQ5.1
+                   SEQ9.1
+                  SEQ10.1
+            X T|  SEQ18.1
+                   SEQ8.1
+               |
+               |
+   -2       X  +T SEQ12.1
+                  SEQ13.1
+                  SEQ14.1
+         <less>|   Strong   Disagr   Neutra    Agree   Strong
+ 
+TABLE 12.12 2026 SE Questionnaire (embedded fixe ZOU687WS.TXT  Mar 02 2026 13:09
+INPUT: 49 PERSON  18 ITEM  REPORTED: 49 PERSON  18 ITEM  5 CATS WINSTEPS 5.10.0.0
+---------------------------------------------------------------------------------
+ 
+MEASURE PERSON - MAP - ITEM
+         <more>||<freq>
+    4          ++
+               ||
+            X  ||  SEQ15
+               ||
+               ||
+               ||T
+    3          ++  SEQ16
+               ||
+               ||
+              T||
+               ||
+               ||S
+    2      XX  ++  SEQ14
+            X  ||
+         XXXX  ||
+           XX S||  SEQ12  SEQ13
+          XXX  ||  SEQ3
+           XX  ||M SEQ11  SEQ18
+    1     XXX  ++  SEQ2   SEQ5   SEQ7
+        XXXXX  ||  SEQ10  SEQ8
+            X  ||  SEQ9
+          XXX M||
+        XXXXX  ||
+            X  ||S SEQ17  SEQ4
+    0      XX  ++
+         XXXX  ||
+           XX  ||
+          XXX S||  SEQ1   SEQ6
+               ||
+          XXX  ||T
+   -1          ++
+               ||
+               ||
+            X T||
+               ||
+               ||
+   -2          ++
+            X  ||
+               ||
+               ||
+               ||
+               ||
+   -3          ++
+         <less>||<rare>
