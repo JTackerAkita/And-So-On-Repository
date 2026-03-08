@@ -1,0 +1,71 @@
+ WINSTEPS Version 5.10.0.0  Mar 05 2026 15:59 
+ Current Directory: C:\Winsteps\ 
+ C:\Users\jigen\Desktop\Final Paper for Beglar 2026\Command files 1st instrument\JASON LIKERT COMMAND 02.txt 
+ Current Directory: C:\Users\jigen\Desktop\Final Paper for Beglar 2026\Command files 1st instrument\ 
+ Report output file name (or press Enter for temporary file, Ctrl+O for Dialog Box): 
+ 
+ Extra specifications (if any). Press Enter to analyze: 
+ 
+ Temporary Workfile Directory: C:\Users\jigen\AppData\Local\Temp\ 
+ Reading Control Variables .. 
+ Input in process:Input Data Record: Length = 21 
+P00143324434323443445 
+^P  ^I              ^N 
+ 247 PERSON Records Input 
+                              CONVERGENCE TABLE 
+ -Control: \JASON LIKERT COMMAND 02.txt   Output: \ZOU968WS.TXT 
+ |    PROX          ACTIVE COUNT       EXTREME 5 RANGE      MAX LOGIT CHANGE  | 
+ | ITERATION  PERSON    ITEM  CATS     PERSON    ITEM      MEASURES  STRUCTURE| 
+ >============================================================================< 
+ |        1      247      17     5       2.44    1.10        2.1650    1.4784 | 
+ >============================================================================< 
+ |        2      246      17     5       2.52    1.13         .0785     .4510 | 
+ >============================================================================< 
+ |        3      246      17     5       2.53    1.13         .0048     .0174 | 
+ Probing data connection: to skip out: Ctrl+F - to bypass: subset=no 
+ Processing unanchored persons ... 
+ >============================================================================< 
+ Data fully connected. No subsets found 
+ |Control: \JASON LIKERT COMMAND 02.txt   Output: \ZOU968WS.TXT 
+ |    JMLE     MAX SCORE   MAX LOGIT     LEAST CONVERGED    CATEGORY STRUCTURE| 
+ | ITERATION   RESIDUAL*     CHANGE  PERSON    ITEM    CAT   RESIDUAL   CHANGE| 
+ >============================================================================< 
+ |       1       -18.64       .2446     123     14*      1      14.67    .0315| 
+ >============================================================================< 
+ |       2         6.01       .0630     152      6*      3      21.47    .0597| 
+ >============================================================================< 
+ |       3         5.78       .0548     152      6*      3      11.37    .0203| 
+ >============================================================================< 
+ |       4         3.30       .0303     152      6*      3       8.48    .0190| 
+ >============================================================================< 
+ |       5         2.38       .0215     152      6*      3       5.68    .0115| 
+ >============================================================================< 
+ |       6         1.58       .0141     152      6*      3       3.98    .0082| 
+ >============================================================================< 
+ |       7         1.09       .0097     152      6*      3       2.73    .0055| 
+ >============================================================================< 
+ |       8          .74       .0066     152      6*      3       1.88    .0038| 
+ >============================================================================< 
+ |       9          .51       .0045     152      6*      3       1.29    .0026| 
+ ------------------------------------------------------------------------------ 
+  Calculating JMLE Fit Statistics 
+ >============================================================================< 
+ Time for estimation: 0:0:1.625 
+ Output to C:\Users\jigen\Desktop\Final Paper for Beglar 2026\Command files 1st instrument\ZOU968WS.TXT 
+ JASON QUESTIONNAIRE 
+ ------------------------------------------------------------------------------ 
+ | PERSON     247 INPUT     246 MEASURED               INFIT         OUTFIT   | 
+ |          TOTAL     COUNT     MEASURE  REALSE     IMNSQ   ZSTD  OMNSQ   ZSTD| 
+ | MEAN      56.2      17.0         .37     .31      1.02    -.2   1.01    -.2| 
+ | P.SD       6.3        .2         .50     .06       .60    1.7    .59    1.7| 
+ | REAL RMSE    .31 TRUE SD     .39  SEPARATION  1.25  PERSON RELIABILITY  .61| 
+ |----------------------------------------------------------------------------| 
+ | ITEM      17 INPUT      17 MEASURED                 INFIT         OUTFIT   | 
+ |          TOTAL     COUNT     MEASURE  REALSE     IMNSQ   ZSTD  OMNSQ   ZSTD| 
+ | MEAN     813.7     245.4         .00     .08      1.00    -.1   1.01     .0| 
+ | P.SD     101.7       1.0         .54     .01       .23    2.7    .25    2.9| 
+ | REAL RMSE    .08 TRUE SD     .53  SEPARATION  6.94  ITEM   RELIABILITY  .98| 
+ ------------------------------------------------------------------------------ 
+ Output written to C:\Users\jigen\Desktop\Final Paper for Beglar 2026\Command files 1st instrument\ZOU968WS.TXT 
+ CODES= 12345 
+Measures constructed: use "Diagnosis" and "Output Tables" menus 

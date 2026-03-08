@@ -1,0 +1,537 @@
+TABLE 12.2 JASON QUESTIONNAIRE                   ZOU968WS.TXT  Mar 05 2026 15:59
+INPUT: 247 PERSON  17 ITEM  REPORTED: 246 PERSON  17 ITEM  5 CATS WINSTEPS 5.10.0.0
+-----------------------------------------------------------------------------------
+ 
+MEASURE    PERSON - MAP - ITEM
+               <more>|<rare>
+    3                +
+                     |
+                  .  |
+                     |
+                  .  |
+                     |
+                     |
+                     |
+    2                +
+                  .  |
+                     |
+                     |
+                  .  |
+                  # T|
+                  .  |
+                 .#  |T
+    1          .###  +  Q14SOA
+                ### S|
+           ########  |
+               .###  |  Q15SA   Q1SA
+      .############  |S Q16SA
+        .########## M|  Q2SM
+             ######  |  Q9SOA
+      #############  |  Q10SA   Q5RM
+    0        ######  +M Q11SA   Q4SM
+               #### S|  Q8SOA
+                 .#  |  Q7RM
+                 ##  |  Q3RM
+                .##  |S
+                    T|  Q17SM
+                 .#  |  Q12SM   Q13RM
+                     |  Q6SOA
+   -1                +
+                  .  |T
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+   -2                +
+               <less>|<freq>
+ EACH "#" IS 3: EACH "." IS 1 TO 2
+ 
+TABLE 12.5 JASON QUESTIONNAIRE                   ZOU968WS.TXT  Mar 05 2026 15:59
+INPUT: 247 PERSON  17 ITEM  REPORTED: 246 PERSON  17 ITEM  5 CATS WINSTEPS 5.10.0.0
+-----------------------------------------------------------------------------------
+ 
+MEASURE    PERSON - MAP - ITEM - Expected score zones (Rasch-half-point thresholds)
+               <more>|  Disagree    Neutral      Agree   Strongly
+                     |                                   Q14SOA.45
+                     |
+                     |
+    3                +                                    Q15SA.45
+                                                           Q1SA.45
+                     |                                    Q16SA.45
+                  .  |                                     Q2SM.45
+                     |
+                  .  |                                    Q9SOA.45
+                                                           Q5RM.45
+                     |                                    Q10SA.45
+                                                           Q4SM.45
+                                                          Q11SA.45
+                     |                                    Q8SOA.45
+                     |                                     Q7RM.45
+    2                +                                     Q3RM.45
+                  .  |
+                     |                                    Q17SM.45
+                     |                        Q14SOA.35   Q13RM.45
+                  .  |                                    Q12SM.45
+                                                          Q6SOA.45
+                  # T|
+                  .  |                         Q15SA.35
+                 .#  |T                         Q1SA.35
+    1          .###  +                         Q16SA.35
+                                                Q2SM.35
+                ### S|
+           ########  |                         Q9SOA.35
+               .###  |                          Q5RM.35
+                                               Q10SA.35
+                                                Q4SM.35
+      .############  |S                        Q11SA.35
+                                               Q8SOA.35
+        .########## M|             Q14SOA.25
+             ######  |                          Q7RM.35
+      #############  |              Q15SA.25    Q3RM.35
+    0        ######  +M              Q1SA.25
+               #### S|              Q16SA.25   Q17SM.35
+                                     Q2SM.25   Q13RM.35
+                 .#  |                         Q12SM.35
+                                               Q6SOA.35
+                 ##  |              Q9SOA.25
+                .##  |S              Q5RM.25
+                                    Q10SA.25
+                    T|               Q4SM.25
+                                    Q11SA.25
+                 .#  |              Q8SOA.25
+                     |               Q7RM.25
+   -1                +               Q3RM.25
+                  .  |T
+                     |  Q14SOA.15   Q17SM.25
+                                    Q13RM.25
+                     |              Q12SM.25
+                     |              Q6SOA.25
+                     |   Q15SA.15
+                          Q1SA.15
+                     |   Q16SA.15
+                     |    Q2SM.15
+   -2                +
+                     |   Q9SOA.15
+                          Q5RM.15
+                     |   Q10SA.15
+                          Q4SM.15
+                         Q11SA.15
+                     |   Q8SOA.15
+                     |    Q7RM.15
+                     |
+                     |    Q3RM.15
+                     |   Q17SM.15
+   -3                +   Q13RM.15
+                     |   Q12SM.15
+                         Q6SOA.15
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+   -4                +
+               <less>|  Strongly   Disagree    Neutral      Agree
+        EACH "#" IS 3: EACH "." IS 1 TO 2
+ 
+TABLE 12.6 JASON QUESTIONNAIRE                   ZOU968WS.TXT  Mar 05 2026 15:59
+INPUT: 247 PERSON  17 ITEM  REPORTED: 246 PERSON  17 ITEM  5 CATS WINSTEPS 5.10.0.0
+-----------------------------------------------------------------------------------
+ 
+MEASURE    PERSON - MAP - ITEM - 50% Cumulative probabilities (Rasch-Thurstonian thresholds)
+               <more>|  Disagre   Neutral     Agree   Strongl
+                     |                                Q14SOA.5
+                     |
+    3                +
+                     |                                 Q15SA.5
+                     |                                  Q1SA.5
+                  .  |                                 Q16SA.5
+                                                        Q2SM.5
+                  .  |
+                     |
+                     |                                 Q9SOA.5
+                                                        Q5RM.5
+                     |                                 Q10SA.5
+                                                        Q4SM.5
+                     |                                 Q11SA.5
+                                                       Q8SOA.5
+    2                +
+                  .  |                                  Q7RM.5
+                     |                                  Q3RM.5
+                     |
+                  .  |                                 Q17SM.5
+                     |                      Q14SOA.4   Q13RM.5
+                  # T|                                 Q12SM.5
+                                                       Q6SOA.5
+                  .  |
+                 .#  |T                      Q15SA.4
+    1          .###  +                        Q1SA.4
+                ### S|                       Q16SA.4
+                                              Q2SM.4
+                 ##  |
+         .#########  |
+           .#######  |S           Q14SOA.3   Q9SOA.4
+                                              Q5RM.4
+          #########  |                       Q10SA.4
+                                              Q4SM.4
+             ###### M|                       Q11SA.4
+                                             Q8SOA.4
+       .###########  |             Q15SA.3
+           .#######  |              Q1SA.3    Q7RM.4
+    0        ######  +M            Q16SA.3    Q3RM.4
+               .### S|              Q2SM.3
+                 ##  |                       Q17SM.4
+                  .  |             Q9SOA.3   Q13RM.4
+                                    Q5RM.3
+                ###  |             Q10SA.3   Q12SM.4
+                                    Q4SM.3   Q6SOA.4
+                  #  |S            Q11SA.3
+                                   Q8SOA.3
+                  # T|
+                  .  |              Q7RM.3
+                     |              Q3RM.3
+   -1                +  Q14SOA.2
+                     |T            Q17SM.3
+                  .  |             Q13RM.3
+                     |             Q12SM.3
+                                   Q6SOA.3
+                     |   Q15SA.2
+                          Q1SA.2
+                     |   Q16SA.2
+                     |    Q2SM.2
+                     |
+                     |   Q9SOA.2
+                          Q5RM.2
+   -2                +   Q10SA.2
+                          Q4SM.2
+                     |   Q11SA.2
+                         Q8SOA.2
+                     |
+                     |    Q7RM.2
+                     |    Q3RM.2
+                     |
+                     |
+                     |   Q17SM.2
+                         Q13RM.2
+                     |   Q12SM.2
+                         Q6SOA.2
+   -3                +
+               <less>|  Strongl   Disagre   Neutral     Agree
+        EACH "#" IS 3: EACH "." IS 1 TO 2
+ 
+TABLE 12.7 JASON QUESTIONNAIRE                   ZOU968WS.TXT  Mar 05 2026 15:59
+INPUT: 247 PERSON  17 ITEM  REPORTED: 246 PERSON  17 ITEM  5 CATS WINSTEPS 5.10.0.0
+-----------------------------------------------------------------------------------
+ 
+MEASURE    PERSON - MAP - ITEM - Andrich thresholds (modal categories if ordered)
+               <more>|  Disagre   Neutral     Agree   Strongl
+                     |                                Q14SOA.5
+    3                +
+                     |
+                     |                                 Q15SA.5
+                  .  |                                  Q1SA.5
+                  .  |                                 Q16SA.5
+                     |                                  Q2SM.5
+                     |
+                     |                                 Q9SOA.5
+                                                        Q5RM.5
+                     |                                 Q10SA.5
+                                                        Q4SM.5
+    2                +                                 Q11SA.5
+                                                       Q8SOA.5
+                  .  |
+                     |                                  Q7RM.5
+                     |                                  Q3RM.5
+                  .  |
+                     |                                 Q17SM.5
+                  # T|                                 Q13RM.5
+                  .  |                                 Q12SM.5
+                                                       Q6SOA.5
+                 .#  |T                     Q14SOA.4
+    1          .###  +
+                ### S|
+                 ##  |            Q14SOA.3   Q15SA.4
+                                              Q1SA.4
+         .#########  |                       Q16SA.4
+           .#######  |S                       Q2SM.4
+          #########  |             Q15SA.3
+             ###### M|              Q1SA.3   Q9SOA.4
+       .###########  |             Q16SA.3    Q5RM.4
+                                    Q2SM.3   Q10SA.4
+           .#######  |                        Q4SM.4
+                                             Q11SA.4
+    0        ######  +M                      Q8SOA.4
+               .### S|             Q9SOA.3    Q7RM.4
+                                    Q5RM.3
+                 ##  |             Q10SA.3
+                                    Q4SM.3
+                  .  |             Q11SA.3    Q3RM.4
+                                   Q8SOA.3
+                ###  |
+                  #  |S             Q7RM.3   Q17SM.4
+                                             Q13RM.4
+                  # T|              Q3RM.3   Q12SM.4
+                  .  |                       Q6SOA.4
+                     |  Q14SOA.2   Q17SM.3
+   -1                +             Q13RM.3
+                     |T            Q12SM.3
+                                   Q6SOA.3
+                  .  |   Q15SA.2
+                          Q1SA.2
+                     |
+                     |   Q16SA.2
+                          Q2SM.2
+                     |
+                     |   Q9SOA.2
+                     |    Q5RM.2
+                     |   Q10SA.2
+                          Q4SM.2
+                         Q11SA.2
+   -2                +   Q8SOA.2
+                     |    Q7RM.2
+                     |
+                     |    Q3RM.2
+                     |
+                     |   Q17SM.2
+                         Q13RM.2
+                     |   Q12SM.2
+                     |   Q6SOA.2
+                     |
+   -3                +
+               <less>|  Strongl   Disagre   Neutral     Agree
+        EACH "#" IS 3: EACH "." IS 1 TO 2
+ 
+TABLE 12.8 JASON QUESTIONNAIRE                   ZOU968WS.TXT  Mar 05 2026 15:59
+INPUT: 247 PERSON  17 ITEM  REPORTED: 246 PERSON  17 ITEM  5 CATS WINSTEPS 5.10.0.0
+-----------------------------------------------------------------------------------
+ 
+MEASURE    PERSON - MAP - ITEM - Measures for category scores (maximum probability of observing a category)
+               <more>|   Strongl   Disagre   Neutral     Agree   Strongl
+                     |                                          Q14SOA.5
+                     |
+                     |
+    4                +                                           Q15SA.5
+                                                                  Q1SA.5
+                     |                                           Q16SA.5
+                                                                  Q2SM.5
+                     |
+                     |                                           Q9SOA.5
+                                                                  Q5RM.5
+                     |                                           Q10SA.5
+                                                                  Q4SM.5
+                                                                 Q11SA.5
+                     |                                           Q8SOA.5
+                     |                                            Q7RM.5
+    3                +                                            Q3RM.5
+                  .  |
+                  .  |                                           Q17SM.5
+                                                                 Q13RM.5
+                     |                                           Q12SM.5
+                                                                 Q6SOA.5
+                     |                                Q14SOA.4
+                     |
+                     |                                 Q15SA.4
+    2             .  +                                  Q1SA.4
+                                                       Q16SA.4
+                     |                                  Q2SM.4
+                  .  |
+                    T|                                 Q9SOA.4
+                                                        Q5RM.4
+                 .#  |                                 Q10SA.4
+                                                        Q4SM.4
+                                                       Q11SA.4
+                  #  |T                                Q8SOA.4
+                .##  |                      Q14SOA.3    Q7RM.4
+    1          .### S+                                  Q3RM.4
+              .####  |
+          .########  |S                      Q15SA.3   Q17SM.4
+                                              Q1SA.3   Q13RM.4
+            ####### M|                       Q16SA.3   Q12SM.4
+                                              Q2SM.3   Q6SOA.4
+          .########  |
+         ##########  |                       Q9SOA.3
+                                              Q5RM.3
+              .####  |M                      Q10SA.3
+                                              Q4SM.3
+                                             Q11SA.3
+    0           .## S+                       Q8SOA.3
+                 .#  |            Q14SOA.2    Q7RM.3
+                .##  |                        Q3RM.3
+                  . T|S            Q15SA.2
+                  #  |              Q1SA.2   Q17SM.3
+                                   Q16SA.2   Q13RM.3
+                     |              Q2SM.2   Q12SM.3
+                                             Q6SOA.3
+                     |
+   -1             .  +T            Q9SOA.2
+                                    Q5RM.2
+                     |             Q10SA.2
+                                    Q4SM.2
+                                   Q11SA.2
+                     |             Q8SOA.2
+                     |              Q7RM.2
+                     |              Q3RM.2
+                     |
+                     |             Q17SM.2
+                                   Q13RM.2
+   -2                +  Q14SOA.1   Q12SM.2
+                                   Q6SOA.2
+                     |
+                     |   Q15SA.1
+                     |    Q1SA.1
+                         Q16SA.1
+                     |    Q2SM.1
+                     |
+                     |   Q9SOA.1
+                          Q5RM.1
+   -3                +   Q10SA.1
+                          Q4SM.1
+                         Q11SA.1
+                     |   Q8SOA.1
+                     |    Q7RM.1
+                     |    Q3RM.1
+                     |
+                     |   Q17SM.1
+                         Q13RM.1
+   -3                +   Q12SM.1
+                         Q6SOA.1
+               <less>|   Strongl   Disagre   Neutral     Agree   Strongl
+        EACH "#" IS 4: EACH "." IS 1 TO 3
+ 
+TABLE 12.9 JASON QUESTIONNAIRE                   ZOU968WS.TXT  Mar 05 2026 15:59
+INPUT: 247 PERSON  17 ITEM  REPORTED: 246 PERSON  17 ITEM  5 CATS WINSTEPS 5.10.0.0
+-----------------------------------------------------------------------------------
+ 
+MEASURE    PERSON - MAP - PERSON - Average Measures for category scores
+               <more>|   Strongl   Disagre   Neutral     Agree   Strongl
+                  .  |
+                  .  |
+                     |
+                     |
+                     |
+                     |
+    2             .  +
+                     |
+                  .  |                                           Q16SA.5
+                                                                 Q15SA.5
+                    T|
+                 .#  |
+                  #  |T                                          Q9SOA.5
+                .##  |                                            Q2SM.5
+                                                                  Q3RM.5
+    1          .### S+                                          Q14SOA.5
+                                                                 Q6SOA.5
+                                                                 Q8SOA.5
+                                                                  Q5RM.5
+                                                                  Q7RM.5
+                                                                  Q1SA.5
+                                                                 Q17SM.5
+                                                                 Q10SA.5
+              .####  |                                 Q15SA.4   Q13RM.5
+                                                                  Q4SM.5
+          .########  |S   Q1SA.1                      Q14SOA.4   Q12SM.5
+                                                       Q16SA.4   Q11SA.5
+                                                        Q2SM.4
+            ####### M|  Q14SOA.1             Q15SA.3   Q9SOA.4
+                                             Q11SA.3    Q5RM.4
+                                             Q10SA.3   Q8SOA.4
+                                              Q2SM.3    Q7RM.4
+                                            Q14SOA.3    Q4SM.4
+                                             Q16SA.3    Q3RM.4
+                                                        Q1SA.4
+                                                       Q13RM.4
+                                                       Q12SM.4
+                                                       Q17SM.4
+          .########  |   Q11SA.1    Q1SA.2   Q9SOA.3   Q10SA.4
+                         Q10SA.1  Q14SOA.2   Q8SOA.3   Q11SA.4
+                          Q4SM.1    Q4SM.2    Q5RM.3   Q6SOA.4
+                                    Q2SM.2    Q7RM.3
+                                   Q10SA.2    Q4SM.3
+                                              Q1SA.3
+         ##########  |   Q9SOA.1   Q11SA.2   Q17SM.3
+                                    Q5RM.2   Q13RM.3
+                                   Q15SA.2   Q12SM.3
+                                   Q16SA.2    Q3RM.3
+                                   Q9SOA.2
+              .####  |M  Q8SOA.1    Q3RM.2   Q6SOA.3
+                         Q16SA.1   Q12SM.2
+                         Q12SM.1   Q13RM.2
+                         Q15SA.1
+    0           .## S+    Q5RM.1   Q8SOA.2
+                          Q2SM.1    Q7RM.2
+                                   Q17SM.2
+                 .#  |             Q6SOA.2
+                .##  |   Q17SM.1
+                         Q6SOA.1
+                          Q7RM.1
+                         Q13RM.1
+                  . T|S   Q3RM.1
+                  #  |
+                     |
+                     |
+   -1             .  +T
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+               <less>|   Strongl   Disagre   Neutral     Agree   Strongl
+        EACH "#" IS 4: EACH "." IS 1 TO 3
+ 
+TABLE 12.12 JASON QUESTIONNAIRE                  ZOU968WS.TXT  Mar 05 2026 15:59
+INPUT: 247 PERSON  17 ITEM  REPORTED: 246 PERSON  17 ITEM  5 CATS WINSTEPS 5.10.0.0
+-----------------------------------------------------------------------------------
+ 
+MEASURE    PERSON - MAP - ITEM
+               <more>||<freq>
+    3                ++
+                     ||
+                     ||
+                  .  ||
+                  .  ||
+                     ||
+                     ||
+                     ||
+                     ||
+    2                ++
+                  .  ||
+                     ||T
+                     ||
+                  .  ||  Q12SM   Q6SOA
+                     ||  Q13RM   Q17SM
+                  # T||S
+                  .  ||
+                 .#  ||  Q3RM
+    1          .###  ++  Q7RM
+                ### S||
+                 ##  ||M Q11SA   Q8SOA
+         .#########  ||  Q10SA   Q4SM
+           .#######  ||  Q5RM    Q9SOA
+          #########  ||
+             ###### M||  Q2SM
+       .###########  ||S Q16SA
+           .#######  ||  Q15SA   Q1SA
+    0        ######  ++
+               .### S||
+                 ##  ||
+                  .  ||T Q14SOA
+                ###  ||
+                  #  ||
+                  # T||
+                  .  ||
+                     ||
+   -1                ++
+                     ||
+                  .  ||
+                     ||
+                     ||
+                     ||
+                     ||
+                     ||
+                     ||
+   -2                ++
+               <less>||<rare>
+ EACH "#" IS 3: EACH "." IS 1 TO 2
